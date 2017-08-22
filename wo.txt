@@ -1,6 +1,10 @@
 100
 200
 hello
+<<<<<<< HEAD
 world
 
 300
+=======
+world
+>>>>>>> fen1
